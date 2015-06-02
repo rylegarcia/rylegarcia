@@ -1,0 +1,28 @@
+{
+  "name": "benchpress",
+  "version": "1.0.0",
+  "description": "a theme for personal trainers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tynsoltys/BenchPress.git"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "author": "Burpee Co.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tynsoltys/BenchPress/issues"
+  },
+  "homepage": "https://github.com/tynsoltys/BenchPress#readme",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.11.0",
+    "gulp-sass": "^2.0.1"
+  }
+}
